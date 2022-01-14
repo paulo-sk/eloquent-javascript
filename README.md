@@ -1,1 +1,1 @@
-# eloquent-javascript
+# Eloquent javascript book exercises
